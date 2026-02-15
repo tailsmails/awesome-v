@@ -276,6 +276,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
 - [winreg](https://github.com/ldedev/WindowsRegistry) - MS Windows Registry API. (WIP)
+- [mimicfs](https://github.com/tailsmails/mimicfs) - An FS that encrypts your app data and keeps them on RAM (with a backup)
 
 ### Scientific computing
 
